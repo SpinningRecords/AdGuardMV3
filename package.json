@@ -28,7 +28,7 @@
         "@adguard/filters-downloader": "^1.1.20",
         "@adguard/scriptlets": "^1.6.55",
         "@adguard/translate": "^1.0.2",
-        "@adguard/tsurlfilter": "2.0.0-alpha.27",
+        "@adguard/tsurlfilter": "2.2.19",
         "@adguard/tswebextension": "0.0.37",
         "ace-builds": "^1.4.13",
         "classnames": "^2.3.1",
